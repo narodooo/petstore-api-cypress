@@ -1,5 +1,6 @@
-# Stockbit UI Automation sample
+# Petstore API Automation sample
 - Full API documentation: https://petstore.swagger.io/
+- Script execution file in path cypress/e2e/petstore
 
 ### script in developed using:
 - Cypress 10.6.0
